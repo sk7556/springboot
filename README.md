@@ -1,8 +1,8 @@
-# quickstart for springboot beginner
+# 스프링부트 기본 프로젝트 스타터 인강
 
-## included code
-* rest api
-* swagger
-* h2
-* mybatis
-* jpa
+## 포함된 코드 내용
+* RestAPI
+* Swagger
+* H2
+* MyBatis
+* JPA
